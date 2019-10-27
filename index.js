@@ -25,5 +25,5 @@ const returnFirstTwoDrivers = function (drivers) {
 <<<<<<< HEAD
 }
 =======
-} 
+}
 >>>>>>> 129148f78b8958887cbc4a8ab6e67dd3e4feba37
