@@ -22,8 +22,3 @@ const returnFirstTwoDrivers = function (drivers) {
 }
  function fetchSpecifiedDrivers(drivers, cb) {
     return cb(drivers);
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 129148f78b8958887cbc4a8ab6e67dd3e4feba37
